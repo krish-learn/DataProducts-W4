@@ -11,10 +11,11 @@ You will observe the following outcome from this Shiny App
 - 4 gear vehicles have higher mpg than that of 3 and 5 geared vehicles
 
 
-Where is the app?
+Where is the app & the presentation?
 ========================================================
 
 The app URL is https://krish-learn.shinyapps.io/ddp_project/
+The presentation URL is http://rpubs.com/krish-learn/437728
 
 
 
